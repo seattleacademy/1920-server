@@ -1,0 +1,22 @@
+{
+  "name": "1920-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattleacademy/1920-server.git"
+  },
+  "author": "Seattle Academy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/1920-server/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/1920-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
